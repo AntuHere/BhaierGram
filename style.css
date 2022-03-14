@@ -56,7 +56,9 @@ body {
   color: var(--text-dark);
   /* overflow-y: auto; */
 }
-
+a{
+  text-decoration: none;
+}
 svg {
   display: block;
 }
